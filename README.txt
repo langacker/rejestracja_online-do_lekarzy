@@ -1,0 +1,1 @@
+Powy¿ej znajduja siê pliki wynikowe dla kolejnych podzadañ projektu, czêœæ wykonywana w Visual Paradigm, oraz g³ówny plik projektu. Staram siê, aby komentarze odpowiada³y podzadaniu, którego rozwi¹zaniem jest dany plik.
